@@ -7,7 +7,7 @@ This is a chatbot which you can run on your computer using python
 
 To use it run the following commands :
 
-# * Linux, Termux:
+# * Linux:
 1. git clone https://github.com/JJ-PC-Tech341/Charles-The-Python-Bot.git
 
 2. cd Charles-The-Python-Bot
@@ -35,3 +35,7 @@ To use it run the following commands :
 7. Double click on the chatbot.py File.
 
 # You Are Ready To Go !
+
+# * Termux :
+
+1. Visit My Second GitHub Page :https://github.com/JJ-PC-Tech341/Charles-2.0-Python-Bot
