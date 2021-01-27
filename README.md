@@ -3,6 +3,8 @@
 
 This is a chatbot which you can run on your computer using python 
 
+Note : This ChatBot Requires a internet connectivity
+
 To use it run the following commands :
 
 # * Linux, Termux:
