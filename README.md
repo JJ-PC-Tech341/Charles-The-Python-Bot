@@ -26,7 +26,7 @@ To use it run the following commands :
 
 3. Hold the 'Shift' key and press Right mouse Button.
 
-4. Select the 'Open Powershell Windows Here' option
+4. Select the 'Open Powershell Windows Here' option from the drop down menu.
 
       4.1 pip install -r requirements.txt
 
