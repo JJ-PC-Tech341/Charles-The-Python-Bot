@@ -28,7 +28,7 @@ To use it run the following commands :
 
 4. Select the 'Open Powershell Windows Here' option
 
-5. pip install -r requirements.txt
+      4.1 pip install -r requirements.txt
 
 6. Close the powershell window.
 
