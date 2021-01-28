@@ -12,7 +12,7 @@ To use it run the following commands :
 
 2. cd Charles-The-Python-Bot
 
-3. pip3 install -r requirements.txt
+3. pip3 install wikipedia && pip3 install pyjokes && pip3 install pyautogui && pip3 install pywhatkit
 
 4. python3 chatbot.py
 
@@ -28,7 +28,7 @@ To use it run the following commands :
 
 4. Select the 'Open Powershell Windows Here' option from the drop down menu.
 
-      4.1 pip install -r requirements.txt
+      4.1 pip install wikipedia && pip install pyjokes && pip install pyautogui && pip install pywhatkit
 
 6. Close the powershell window.
 
