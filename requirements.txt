@@ -1,4 +1,0 @@
-pywhatkit
-wikipedia
-pyjokes
-pyautogui
